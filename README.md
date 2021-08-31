@@ -1,4 +1,4 @@
-# ObjectDetector
+# OrbitalObjectDetector
 
 ## Object detection for Liverpool Telescope images of Earth-orbiting objects using Faster-RCNN from Detectron2.
 
