@@ -1,5 +1,7 @@
 # OrbitalObjectDetector
 
+![Telescope image showing object detection prediction](https://cdn.discordapp.com/attachments/494131105302183958/882386186935611452/unknown.png)
+
 ## Object detection for Liverpool Telescope images of Earth-orbiting objects using Faster-RCNN from Detectron2.
 
 ### Requirements
