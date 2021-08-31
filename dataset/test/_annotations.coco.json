@@ -1,0 +1,187 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "2",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/orbital/2",
+        "date_created": "2021-08-27T14:58:55+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Objects",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "object",
+            "supercategory": "Objects"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "h_e_20181216_90_4_1_1_bmp.rf.5d7291f9fb47a0e974de01cbdd0853f5.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "h_e_20181213_14_1_1_1_bmp.rf.d793c0a37ac5febc700d103b418139f8.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "h_e_20181214_100_2_1_1_bmp.rf.a1798badb57847e518402b477bfa660d.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "h_e_20181213_8_1_1_1_bmp.rf.bc66843265a728ed538e3b8f7882772c.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "h_e_20181213_9_4_1_1_bmp.rf.c4ef4213356d3fb8662bc37924b87867.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "h_e_20181216_90_3_1_1_bmp.rf.57cedb3145e8ec15faf3d0011be8c90b.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        },
+        {
+            "id": 6,
+            "license": 1,
+            "file_name": "h_e_20181212_41_5_1_1_bmp.rf.770133e08323a02154ca7f1a280d8c4a.jpg",
+            "height": 2048,
+            "width": 2048,
+            "date_captured": "2021-08-27T14:58:55+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                1059,
+                987,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                1074,
+                968,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                1161,
+                995,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 1,
+            "bbox": [
+                1061,
+                943,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                1043,
+                971,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 1,
+            "bbox": [
+                1059,
+                987,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 1,
+            "bbox": [
+                1132,
+                967,
+                19,
+                19
+            ],
+            "area": 361,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
