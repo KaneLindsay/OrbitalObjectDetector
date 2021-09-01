@@ -17,5 +17,5 @@ and a .txt file containing the pixel coordinates of the corners of the bounding 
 
 The algorithm can be trained on a custom dataset by putting your data and JSON annotation files in the 'dataset' folder and running 'train.py'.
 
-_This program is in development as part of a processing chain for light level measurement of Earth-orbiting objects.
-The program to prepare data from the FITS and XLSX files is available at: https://github.com/KaneLindsay/COCOFormatter _
+_This program is in development as part of a processing chain for light level measurement of Earth-orbiting objects._
+_The program to prepare data from the FITS and XLSX files is available at: https://github.com/KaneLindsay/COCOFormatter. _
